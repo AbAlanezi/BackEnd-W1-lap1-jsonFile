@@ -1,0 +1,28 @@
+[
+    {
+        "Books":{
+            "Book1":{
+                "name":"Communication",
+                "borrowed":true,
+                "borrowedName":{
+                    "borrowed1":"fid",
+                    "borrowed2":"Ali",
+                    "borrowed3":"Jmal"
+                   }
+            },
+            "Book2":{
+                "name":"Authorsship",
+                "borrowed":false
+            },
+            "Book3":{
+                "name":"Leadership",
+                "borrowed":true,
+                "borrowedName":{
+                 "borrowed1":"slman",
+                 "borrowed2":"Abndalazez",
+                 "borrowed3":"Mohmmad"
+                }
+            }
+        }
+    }
+]
